@@ -5,7 +5,7 @@ sumber: https://raracyberblog.wordpress.com/2016/08/21/fripside-only-my-railgun/
 youtube: https://youtu.be/iZ2j45PHlHs 
 ---
 
-**Hanate! **
+**Hanate!**
 
 Lepaskan! 
 
