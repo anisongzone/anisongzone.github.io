@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Anisong Zone</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+	<style>
+		* {
+			word-wrap: break-word;
+		}
+
+		body {
+			margin-top: 70px;
+			margin-bottom: 50px;
+		}
+
+		.navbar-fixed-bottom .table {
+			margin-bottom: 0;
+			border: 0 !important;
+		}
+
+		.navbar-fixed-bottom td {
+			border: 0 !important;
+		}
+
+		.navbar-fixed-bottom .btn {
+			width: 100%;
+		}
+
+		.sembunyi {
+			display: none;
+		}
+
+		.hapus {
+			cursor: pointer;
+		}
+	</style>
+</head>
+<body>
+	<div class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header"><a href="index.html" class="navbar-brand">Anisong Zone</a></div>
+		</div>
+	</div>
+	<div class="container">
+		{{ content }}
+	</div>
+	<script src="vendor/jquery/jquery.min.js"></script>
+	<script>
+		$.expr[':'].contains = $.expr.createPseudo(function(arg){
+			return function(elem){
+				return $(elem).text().toUpperCase().indexOf(arg.toUpperCase()) >= 0
+			}
+		})
+
+		$('.cari').on('keyup', function(){
+			if ($('.cari').val() != ''){
+				$('.item-cari').addClass('sembunyi')
+				$('.item-cari').each(function(){
+					if ($(this).is(":contains(" + $('.cari').val() + ")")) {
+						$(this).removeClass('sembunyi')
+					}
+				})
+			} else {
+				$('.item-cari').removeClass('sembunyi')
+			}
+		})
+
+		$('.hapus').each(function(){
+			$(this).click(function(){
+				$(this).parent().find('.form-control').val('')
+				$('.item-cari').removeClass('sembunyi')
+			})
+		})
+	</script>
+</body>
+</html>

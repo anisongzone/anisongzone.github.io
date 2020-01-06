@@ -1,0 +1,4 @@
+permalink: lirik-lagu-:title-terjemah-indonesia-:month:day.html
+
+plugins:
+  - jekyll-feed

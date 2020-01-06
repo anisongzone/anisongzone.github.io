@@ -1,1 +1,30 @@
-Hello World
+---
+layout: default
+---
+
+{% assign postingan = site.posts | sort: 'title' %}
+<div class="list-group">
+	{% for x in postingan %}
+		<a href="{{ x.url | replace: '/', '' }}" class="list-group-item item-cari">{{ x.title }}</a>	
+	{% endfor %}
+</div>
+
+<div class="navbar navbar-default navbar-fixed-bottom">
+	<div class="container">
+		<table class="table table-bordered">
+			<tbody>
+				<tr>
+					<td>
+						<div class="input-group">
+							<input type="text" placeholder="Cari apa?" class="form-control cari">
+							<div class="input-group-addon hapus">x</div>
+						</div>
+					</td>
+					<td>
+						<a href="https://github.com/mzaini30/apk/raw/master/Anisong%20Zone.signed.apk" class="btn btn-success">Get APK</a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
