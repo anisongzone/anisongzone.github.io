@@ -181,7 +181,7 @@ Aku mulai melompati waktu dari tempat ini ingin bertemu denganmu
 
 Mungkinkah aku bisa tersenyum kembali di tempat ini
 
-**Kimi no shashin wa oita mama de arukidasu **
+**Kimi no shashin wa oita mama de arukidasu**
 
 Aku mulai berjalan dengan tetap menyimpan fotomu 
 
