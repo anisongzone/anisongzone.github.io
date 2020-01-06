@@ -33,7 +33,7 @@ Yang bersinar di batang kering itu adalah
 
 masa depan yang lupa bersemi
 
-**Mada nagorioshisou ni **
+**Mada nagorioshisou ni**
 
 dan masih menyesal 
 
@@ -65,7 +65,7 @@ Dunia akan berakhir
 
  
 
-**Kegarenu mono to shite **
+**Kegarenu mono to shite**
 
 Putihnya salju yang berguguran
 
@@ -81,7 +81,7 @@ Semakin ia terjamah oleh kehangatan,
 
 ia akan semakin melebur sirna
 
-**Kirei na yume dake ga **
+**Kirei na yume dake ga**
 
 Mimpi indahlah yang akan 
 
@@ -89,7 +89,7 @@ Mimpi indahlah yang akan
 
 menghancurkanmu hingga berkeping-keping
 
-**Tsumetai hitomi no **
+**Tsumetai hitomi no**
 
 Di balik tatapan mata yang dingin
 
@@ -101,7 +101,7 @@ tersembunyi kasih sayang dan kenyataan
 
 
 
-**Hageshiku matataku hoshitachi wa **
+**Hageshiku matataku hoshitachi wa**
 
 Bintang gemintang yang berkelip dengan terangnya
 
@@ -149,7 +149,7 @@ Kuingin melihatnya sendiri
 
 Saat-saat ketika harapan manusia
 
-**Sansan to hikari ni **
+**Sansan to hikari ni**
 
 terpenuhi dengan
 
@@ -161,7 +161,7 @@ cahaya yang begitu terang
 
 
 
-**Tsubasa wo hoshigatte **
+**Tsubasa wo hoshigatte**
 
 Mendambakan sepasang sayap
 
@@ -201,7 +201,7 @@ pasti sedang dikunjungi oleh musim bunga bersemi
 
 
 
-**Hageshiku matataku **
+**Hageshiku matataku**
 
 Bayang-bayang impian bintang gemintang
 
