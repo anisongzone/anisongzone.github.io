@@ -2,7 +2,7 @@
 layout: post
 title: "Desir - Fate/Apocrypha"
 sumber: https://www.kazelyrics.com/2017/09/lirikterjemahan-garnidelia-desir-harapan.html?m=1 
-youtube: https://youtu.be/ndiDE7aOkZg 
+youtube: https://youtu.be/MlcV5gyP5Bk
 ---
 
 **Donna ni nozonde mo kanawanai ashita ga aru to**
