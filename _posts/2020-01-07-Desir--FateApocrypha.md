@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Desir - Fate/Apocrypha"
+title: "Desir - Fate/Apocrypha - NSFW"
 sumber: https://www.kazelyrics.com/2017/09/lirikterjemahan-garnidelia-desir-harapan.html?m=1 
 youtube: https://youtu.be/MlcV5gyP5Bk
 ---
