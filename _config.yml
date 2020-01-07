@@ -2,3 +2,7 @@ permalink: lirik-lagu-:title-terjemah-indonesia-:month:day.html
 
 plugins:
   - jekyll-feed
+
+title: Anisong Zone
+description: Kumpulan lirik anime song dalam bahasa Indonesia
+image: https://telegra.ph/file/be873d1fc199bc892758d.jpg
