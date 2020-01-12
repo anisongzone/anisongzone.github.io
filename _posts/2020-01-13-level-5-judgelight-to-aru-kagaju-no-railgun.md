@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Level 5 - Judgelight - To Aru Kagaju no Railgun"
+title: "Level 5 - Judgelight - To Aru Kagaku no Railgun"
 sumber: http://anisongsid.blogspot.com/2013/09/fripside-level5-judgelight-tingkatan-5.html?m=1 
 youtube: https://youtu.be/ixXlSTvi2sQ 
 ---
