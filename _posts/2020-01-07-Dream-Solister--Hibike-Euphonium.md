@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dream Solister - Hibike Euphonium"
+title: "Hibike Euphonium - Dream Solister"
 sumber: https://www.kazelyrics.com/2016/10/lirikterjemahan-true-dream-solister.html?m=1
 youtube: https://youtu.be/hqbLBSVysZo 
 ---

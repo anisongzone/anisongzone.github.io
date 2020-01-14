@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chiisana Boukensha - Konosuba"
+title: "Konosuba - Chiisana Boukensha"
 sumber: http://dochaan.blogspot.com/2016/02/lirik-dan-terjemahan-chiisana-boukensha.html?m=1 
 youtube: https://youtu.be/NevwXF6ZdtI 
 ---

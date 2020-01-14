@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oath Sign - Fate/Zero"
+title: "Fate/Zero - Oath Sign"
 sumber: https://www.kazelyrics.com/2018/07/lirikterjemahan-lisa-oath-sign-tanda.html?m=1 
 youtube: https://youtu.be/xDarqGKWwQQ 
 ---

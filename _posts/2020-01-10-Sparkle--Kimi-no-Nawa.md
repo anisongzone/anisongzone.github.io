@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sparkle - Kimi no Nawa"
+title: "Kimi no Nawa - Sparkle"
 sumber: https://www.kazelyrics.com/2016/08/lirikterjemahan-radwimps-sparkle-kilauan.html?m=1 
 youtube: https://youtu.be/K_7To_y9IAM 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dango Daikazoku - Clannad"
+title: "Clannad - Dango Daikazoku"
 sumber: https://m.kaskus.co.id/show_post/529439c3c0cb17a90d0000b0/110/lirik-chata---dango-daikazoku-keluarga-besar-dango 
 youtube: https://youtu.be/qvzCmV3_12c 
 ---

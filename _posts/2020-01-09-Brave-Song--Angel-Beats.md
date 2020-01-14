@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brave Song - Angel Beats"
+title: "Angel Beats - Brave Song"
 sumber: http://kjapanku.blogspot.com/2015/12/aoi-tada-brave-song-angel-beats-ending.html?m=1 
 youtube: https://youtu.be/xtcvM3s1I1s 
 ---

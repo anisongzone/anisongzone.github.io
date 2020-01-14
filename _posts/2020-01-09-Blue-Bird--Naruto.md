@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blue Bird - Naruto"
+title: "Naruto - Blue Bird"
 sumber: http://kjapanku.blogspot.com/2015/12/ikimono-gakari-blue-bird-lyrics.html?m=1 
 youtube: https://youtu.be/Dp8EuP_0gWI 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Everytime You Kissed Me - Pandora Heart"
+title: "Pandora Hearts - Everytime You Kissed Me"
 sumber: http://scamanderloony.blogspot.com/2015/01/emily-bindiger-eveyrtime-you-kissed-me.html?m=1 
 youtube: https://youtu.be/AayHUbAFb1Y 
 ---

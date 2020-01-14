@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7!! Orange - Shigatsu wa Kimi no Uso"
+title: "Shigatsu wa Kimi no Uso - Orange - 7!!"
 sumber: https://www.kazelyrics.com/2016/06/lirikterjemahan-7-orange-oranye.html?m=1 
 youtube: https://youtu.be/mOFAKsnQMmE 
 ---

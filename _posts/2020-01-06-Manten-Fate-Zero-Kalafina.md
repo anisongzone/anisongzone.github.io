@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Manten Fate Zero Kalafina"
+title: "Fate/Zero - Manten - Kalafina"
 sumber: http://land-lyrics.blogspot.com/2015/08/fatezero-ed02-kalafina-manten-lyrics.html?m=1 
 youtube: https://youtu.be/Vna1ZVCp4_c 
 ---
