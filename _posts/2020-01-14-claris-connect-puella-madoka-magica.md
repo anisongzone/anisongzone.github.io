@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puella Madoka Magica - Connect - Claris"
+title: "Puella Madoka Magica - Connect - ClariS"
 sumber: https://lirikterjemahan.blogspot.com/2014/01/lirik-connect-claris-ost-mahou-shoujo.html?m=1 
 youtube: https://youtu.be/g1vw9ftAWSc 
 ---
