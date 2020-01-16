@@ -10,14 +10,33 @@ layout: default
 <br>
 <p><small>Sumber lirik lagu: <a href="{{ page.sumber }}">{{ page.sumber }}</a></small></p>
 
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = '{{ site.url }}{{ page.url }}';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = '{{ page.url }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://anisongzone.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
 <div class="navbar navbar-default navbar-fixed-bottom">
 	<div class="container">
 		<table class="table table-bordered">
 			<tbody>
 				<tr>
-					<td>
-						<a href="mailto:muhzaini30@gmail.com" class="btn btn-default">Email Me</a>
-					</td>
 					<td>
 						<a href="https://github.com/mzaini30/apk/raw/master/Anisong%20Zone.signed.apk" class="btn btn-success">Get APK</a>
 					</td>
